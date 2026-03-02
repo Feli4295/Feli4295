@@ -8,8 +8,7 @@ Getting to that state of mind where I don’t just chase the end results in proj
 My repositories speak for themselves, showcasing how I harness the power of Python libraries, SQL, Power BI and advanced spreadsheet functions. I specialize in data wrangling, data visualization, model building and deployment to extract actionable insights and models that drive impactful business and real-world decisions.
 </details>
 I am always eager to connect with like-minded innovators and industry experts. 
-Reach me 👉 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felicity-onwano) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onwanofelicity@gmail.com).
-
+Reach me 👉 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felicity-onwano) or [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onwanofelicity@gmail.com)
 
 <!--
 **Feli4295/Feli4295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
