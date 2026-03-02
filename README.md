@@ -1,4 +1,5 @@
-## FELICITY ONWANO | BRIDGING THE GAP BETWEEN PURE MATHEMATICS AND APPLIED DATA SCIENCE
+## I AM FELICITY ONWANO  
+#### BRIDGING THE GAP BETWEEN PURE MATHEMATICS AND APPLIED DATA SCIENCE
 
 My intense passion for solving puzzles, from mind games, to implementing my critical mathematical skills in my daily activities, is the backbone of my swift transition from being an intermediate Data Analyst to becoming a radical Data Scientist. 
 <details>
