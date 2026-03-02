@@ -7,9 +7,9 @@ Getting to that state of mind where I don’t just chase the end results in proj
 
 ---
 
-My repositories speak for themselves, showcasing how I harness the power of Python libraries, SQL, Power BI and advanced spreadsheet functions. I specialize in data wrangling, data visualization, model building and deployment to extract actionable insights and models that drive impactful business and real-world decisions.
+My repositories speak for themselves, showcasing how I harness the power of `Python libraries, SQL, Power BI and advanced spreadsheet functions`. I specialize in `data wrangling, data visualization, model building and deployment` to extract actionable insights and models that drive impactful business and real-world decisions.
 I am always eager to connect with like-minded innovators and industry experts. 
-Reach me via my `LinkedIn` or `X` social handles in my profile section.
+Reach me via my `LinkedIn` or `Gmail` social handles in my profile section.
 
 <!--
 **Feli4295/Feli4295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
